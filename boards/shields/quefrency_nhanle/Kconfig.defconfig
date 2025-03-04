@@ -1,7 +1,7 @@
 if SHIELD_QUEFRENCY_NHANLE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Quefrency_NhanLe"
+    default "Quefrency NhanLe"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
