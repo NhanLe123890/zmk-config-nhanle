@@ -23,3 +23,5 @@ include:
     shield: quefrency_nhanle_left
   - board: nice_nano_v2
     shield: quefrency_nhanle_right
+  - board: nice_nano_v2
+    shield: np15
